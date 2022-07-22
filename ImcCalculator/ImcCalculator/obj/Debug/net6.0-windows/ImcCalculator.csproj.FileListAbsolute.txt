@@ -1,0 +1,17 @@
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\bin\Debug\net6.0-windows\ImcCalculator.exe
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\bin\Debug\net6.0-windows\ImcCalculator.deps.json
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\bin\Debug\net6.0-windows\ImcCalculator.runtimeconfig.json
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\bin\Debug\net6.0-windows\ImcCalculator.dll
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\bin\Debug\net6.0-windows\ImcCalculator.pdb
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.csproj.AssemblyReference.cache
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.Form1.resources
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.csproj.GenerateResource.cache
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.AssemblyInfoInputs.cache
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.AssemblyInfo.cs
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.csproj.CoreCompileInputs.cache
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.dll
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\refint\ImcCalculator.dll
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.pdb
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ImcCalculator.genruntimeconfig.cache
+G:\Jalasoft\BackEnd\Ejercicios\ImcCalculator\ImcCalculator\obj\Debug\net6.0-windows\ref\ImcCalculator.dll
