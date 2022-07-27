@@ -1,0 +1,17 @@
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\bin\Debug\net6.0-windows\MoreOrLess.exe
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\bin\Debug\net6.0-windows\MoreOrLess.deps.json
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\bin\Debug\net6.0-windows\MoreOrLess.runtimeconfig.json
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\bin\Debug\net6.0-windows\MoreOrLess.dll
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\bin\Debug\net6.0-windows\MoreOrLess.pdb
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.csproj.AssemblyReference.cache
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.Form1.resources
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.csproj.GenerateResource.cache
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.AssemblyInfoInputs.cache
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.AssemblyInfo.cs
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.csproj.CoreCompileInputs.cache
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.dll
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\refint\MoreOrLess.dll
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.pdb
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\MoreOrLess.genruntimeconfig.cache
+G:\Cursos\CSharp\MoreOrLess\MoreOrLess\MoreOrLess\obj\Debug\net6.0-windows\ref\MoreOrLess.dll
